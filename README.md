@@ -10,3 +10,4 @@ hitlist of ideas
 4. https://blog.svpino.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour
 
 5. Sudoku code Generator with at least 17 clues ( 16 clue Sudoku is not solvable without guessing)
+6. Coding questions flashcard-ish
