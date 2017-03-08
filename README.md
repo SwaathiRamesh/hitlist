@@ -1,4 +1,4 @@
-# hitlist
+# hitlist ?
 hitlist of ideas !
 
 1. (DONE) Conway's game of life- c++ and python
